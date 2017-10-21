@@ -1,0 +1,6 @@
+{
+    "require": {
+        "bshaffer/oauth2-server-php": "^1.9",
+        "league/oauth2-client": "^2.2"
+    }
+}
